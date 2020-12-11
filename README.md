@@ -8,5 +8,5 @@ Language
 
 ## Instalation
 ```
-python, beep boop... language not yet completed
+python, beep boop... language not yet completed = True
 ```
