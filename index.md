@@ -1,2 +1,2 @@
 # Bahasa Language
-An Indonesian Programming Language
+🇮🇩 An Indonesian Programming Language
